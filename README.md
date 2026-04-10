@@ -1,40 +1,74 @@
-# 👋 Hi, I'm Manasa Hegde
+# 👋 Hi, I'm Manasa L Hegde
 
-💻 **CSE Engineering Student | Java Full Stack Developer (in progress)**  
-☁️ **AWS Cloud Practitioner Certified**  
-🚀 Passionate about developing web applications and cloud-based solutions
-
----
-
-### 🧰 Tech Stack & Skills
-- **Languages:** Java, Advanced Java, Python (Basics), HTML, CSS  
-- **Frameworks & Tools:** JDBC, Servlets, Git & GitHub  
-- **Cloud:** AWS Cloud Practitioner – essential concepts & hands-on knowledge  
-- **CS Foundations:** Data Structures & Algorithms (DSA)(Ongoing)
+🎓 Information Science Student (VTU)(DBIT) 
+📊 Data Analyst  
+💻 Problem Solver  
 
 ---
 
-### 💡 Projects
-- 🎬 **Movie Rating System (Python):** IMDb dataset analysis — rating frequency, correlation, and Top-N movie recommendations.  
-- 🎧 **Spotify Clone (HTML & CSS):** Recreated Spotify’s responsive UI with hover and animation effects.
+## 🚀 About Me
 
-[🔗 View all my repositories](https://github.com/Hegde-manasa?tab=repositories)
+I am an Information Science undergraduate with a strong interest in data analysis and problem solving. I enjoy working with data, identifying patterns, and building practical projects that provide meaningful insights.
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hegde-manasa&show_icons=true&theme=tokyonight" height="140px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hegde-manasa&theme=tokyonight" height="140px" />
-</p>
+I continuously improve my skills through hands-on projects, certifications, and coding practice.
 
 ---
 
-### 🌐 Connect with Me
-- **GitHub:** [github.com/Hegde-manasa](https://github.com/Hegde-manasa)  
-- **LinkedIn:** *(add your LinkedIn link here)*  
-- **Instagram:** *(optional – add if you want)*  
+## 🛠️ Skills
+
+- Programming: Python, Java  
+- Database: SQL  
+- Data Analysis: Excel  
+- Tools: PowerBI
+- Web Basics: HTML, CSS, JavaScript  
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*
+## 📂 Projects
+
+### 📊 IPL Data Analysis Dashboard
+- Analyzed IPL dataset (2008–2023) using Excel  
+- Created interactive dashboards using pivot tables and charts  
+- Identified trends in team performance and player statistics  
+
+---
+
+### 🎮 Simsons Game
+- Developed a browser-based game using HTML, CSS, and JavaScript  
+- Implemented basic game logic and interactive UI   
+
+---
+
+## 📜 Certifications
+
+- SQL (Basic) – HackerRank  
+- SQL (Intermediate) – HackerRank  
+- AWS Cloud Practitioner Essentials – AWS  
+- Deloitte Australia Data Analytics Job Simulation – Forage  
+- Tata GenAI Powered Data Analytics Job Simulation – Forage  
+- Introduction to Data Science – Cisco Networking Academy  
+- Ask Questions to Make Data-Driven Decisions – Google  
+- Foundations: Data, Data, Everywhere – Google  
+- AI Fluency for Students – Anthropic  
+- Prompt Design in Vertex AI – Google Cloud  
+- Startup School: Prompt to Prototype – Google for Startups  
+- Gemini Certified Student – Google  
+
+---
+
+## 📈 Currently Learning
+
+- Advanced SQL  
+- Data Analysis techniques  
+- Problem Solving (HackerRank)
+
+---
+
+## 🔗 Connect with Me
+
+- 💼 LinkedIn: www.linkedin.com/in/manasa-l-hegde 
+- 💻 HackerRank: https://www.hackerrank.com/manasa_l_hegde 
+
+---
+
+⭐ Focused on learning, building, and improving step by step.
