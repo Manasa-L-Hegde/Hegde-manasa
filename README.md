@@ -27,15 +27,42 @@ I continuously improve my skills through hands-on projects, certifications, and 
 ## 📂 Projects
 
 ### 📊 IPL Data Analysis Dashboard
-- Analyzed IPL dataset (2008–2023) using Excel  
-- Created interactive dashboards using pivot tables and charts  
-- Identified trends in team performance and player statistics  
+- Analyzed IPL dataset (2008–2022) using Excel  
+- Created interactive dashboards using pivot tables, charts, and slicers  
+- Identified trends in team performance, match outcomes, and key player statistics  
+- 🔗 [GitHub Repo](https://github.com/Manasa-L-Hegde/IPL-Data-Analysis-Dashboard-Excel)
 
 ---
 
-### 🎮 Simsons Game
-- Developed a browser-based game using HTML, CSS, and JavaScript  
-- Implemented basic game logic and interactive UI   
+### 🎮 Simon Says Game
+- Developed a browser-based memory game using HTML, CSS, and JavaScript  
+- Implemented game logic with color sequences, level progression, and score tracking  
+- Showcases DOM manipulation and interactive UI design  
+- 🔗 [GitHub Repo](https://github.com/Manasa-L-Hegde/Simon-Says-Game)
+
+---
+
+### 🤖 AI Study Assistant
+- Built a responsive Streamlit web app that generates explanations, study notes, and quiz questions for any topic  
+- Integrated Groq API (LLM) for AI-powered content generation  
+- Features a dark, modern UI that works on both desktop and mobile  
+- 🔗 [GitHub Repo](https://github.com/Manasa-L-Hegde/AI-Study-Assistant) | [Live Demo](https://manasa-l-hegde-ai-study-assistant-app-lu8u3g.streamlit.app/)
+
+---
+
+### 🍽️ Reviewense – Restaurant Reviews Sentiment Analysis
+- Built a machine learning project to classify restaurant reviews as Positive or Negative  
+- Used NLP techniques: tokenization, stopword removal, stemming, and TF-IDF vectorization  
+- Trained a Multinomial Naive Bayes classifier achieving 75–85% accuracy  
+- Visualized results using confusion matrix and sentiment distribution charts  
+- 🔗 [GitHub Repo](https://github.com/Manasa-L-Hegde/Reviewense)
+
+---
+
+### 🎵 Spotify Clone
+- Built a front-end clone of the Spotify web player using HTML and CSS  
+- Replicated the layout, navigation bar, sidebar, and music card components  
+- 🔗 [GitHub Repo](https://github.com/Manasa-L-Hegde/spotify-clone)
 
 ---
 
