@@ -66,8 +66,10 @@ I continuously improve my skills through hands-on projects, certifications, and 
 
 ## 🔗 Connect with Me
 
-- 💼 LinkedIn: www.linkedin.com/in/manasa-l-hegde 
+- 💼 LinkedIn: https://www.linkedin.com/in/manasa-l-hegde 
 - 💻 HackerRank: https://www.hackerrank.com/manasa_l_hegde 
+- 🌐 Google Skills Profile: https://www.skills.google/public_profiles/1955f914-009a-45fb-8b50-c80c3f74cdde
+- 👩‍💻 Google Developer Profile: https://me.developers.google.com/u/ManasaHegde
 
 ---
 
