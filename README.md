@@ -50,12 +50,12 @@ I continuously improve my skills through hands-on projects, certifications, and 
 
 ---
 
-### 🍽️ Reviewense – Restaurant Reviews Sentiment Analysis
+### 🍽️ ReviewSense – Restaurant Reviews Sentiment Analysis
 - Built a machine learning project to classify restaurant reviews as Positive or Negative  
 - Used NLP techniques: tokenization, stopword removal, stemming, and TF-IDF vectorization  
 - Trained a Multinomial Naive Bayes classifier achieving 75–85% accuracy  
 - Visualized results using confusion matrix and sentiment distribution charts  
-- 🔗 [GitHub Repo](https://github.com/Manasa-L-Hegde/Reviewense)
+- 🔗 [GitHub Repo](https://github.com/Manasa-L-Hegde/ReviewSense)
 
 ---
 
@@ -63,6 +63,33 @@ I continuously improve my skills through hands-on projects, certifications, and 
 - Built a front-end clone of the Spotify web player using HTML and CSS  
 - Replicated the layout, navigation bar, sidebar, and music card components  
 - 🔗 [GitHub Repo](https://github.com/Manasa-L-Hegde/spotify-clone)
+
+---
+
+### 📈 Nlytic AI
+- AI-powered SQL analytics assistant that converts plain English into MySQL queries  
+- Visualizes business insights from generated queries  
+- 🔗 [GitHub Repo](https://github.com/Manasa-L-Hegde/Nlytic_AI)
+
+---
+
+### 🔁 DevFlow AI
+- Project repository for DevFlow AI  
+- 🔗 [GitHub Repo](https://github.com/Manasa-L-Hegde/DevFlow-AI)
+
+---
+
+### 🛟 Support Triage Agent
+- Deterministic, corpus-grounded support triage system for classification and escalation  
+- Uses a modular pipeline for safe, reproducible support response generation  
+- 🔗 [GitHub Repo](https://github.com/Manasa-L-Hegde/Support_Triage_Agent)
+
+---
+
+### 🌆 Urban Heat Island
+- Data-driven platform for ward-level urban heat mapping using satellite and weather data  
+- Provides interactive heat risk views and AI-powered cooling strategy suggestions  
+- 🔗 [GitHub Repo](https://github.com/Manasa-L-Hegde/Urban_Heat_Island)
 
 ---
 
@@ -95,6 +122,8 @@ I continuously improve my skills through hands-on projects, certifications, and 
 
 - 💼 LinkedIn: www.linkedin.com/in/manasa-l-hegde 
 - 💻 HackerRank: https://www.hackerrank.com/manasa_l_hegde 
+- 🧠 Google Skills Profile: https://www.skills.google/public_profiles/1955f914-009a-45fb-8b50-c80c3f74cdde
+- 👩‍💻 Google Developer Profile: https://me.developers.google.com/u/ManasaHegde
 
 ---
 
